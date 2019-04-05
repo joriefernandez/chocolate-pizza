@@ -12,13 +12,23 @@ nav {
 #branding-container {
   display: inline-block;
   height: 45px;
-  width: 280px;
+  width: 320px;
 }
 
 #brand-name {
   display: inline-block;
-  width: 210px;
   margin-left: 10px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2em;
+}
+
+#brand-name p {
+  font-family: monospace;
+  text-transform: uppercase;
+  color: #777777;
 }
 
 #social-icons {
