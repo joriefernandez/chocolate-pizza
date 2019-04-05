@@ -5,6 +5,7 @@ body {
   margin: 0 auto;
 }
 
+/* navigation bar */
 nav {
   height: 45px;
   margin: 30px 0;
@@ -53,4 +54,13 @@ h1 {
 
 #social-icons li:nth-of-type(6) {
   margin-right: 10px;
+}
+
+/* horizontal rule */
+.rule {
+  height: 16px;
+  display: block;
+  background-image: url(img/hr-img.png);
+  background-repeat: repeat;
+  background-size: auto;
 }
