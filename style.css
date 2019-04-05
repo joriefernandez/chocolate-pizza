@@ -1,2 +1,39 @@
 @import 'reset.css';
 
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+nav {
+  height: 45px;
+}
+
+#branding-container {
+  display: inline-block;
+  height: 45px;
+  width: 280px;
+}
+
+#brand-name {
+  display: inline-block;
+  width: 210px;
+  margin-left: 10px;
+}
+
+#social-icons {
+  height: 24px;
+  float: right;
+  padding: 10.5px 0;
+}
+
+#social-icons li {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-right: 2px;
+}
+
+#social-icons li:nth-of-type(6) {
+  margin-right: 10px;
+}
