@@ -63,4 +63,74 @@ h1 {
   background-image: url(img/hr-img.png);
   background-repeat: repeat;
   background-size: auto;
+  margin-bottom: 30px;
 }
+
+h2{
+  font-weight: bold;
+  font-size: 44px; 
+  margin-top: 30px;
+}
+
+h3{
+  color: #777;
+  display: inline-block;
+}
+
+#print-container{
+  float: right;
+}
+
+#recipe-header{
+  margin-bottom: 30px;
+}
+
+#choco-pizza{
+  width: 960px;
+  margin-bottom: 30px;
+}
+
+p{
+  margin-bottom: 30px;
+}
+
+#ingredrients-container{
+  background-image: url(img/list-bg.png);
+  height: 300px;
+  margin-bottom: 30px;
+  
+}
+
+#ingredrients-container ul{
+  column-count: 2;
+  padding:85px;
+}
+
+h4{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#author-container{
+  display: inline-block;
+  
+}
+
+#author{
+  float: left;
+}
+
+#author-container img{
+  float: left;
+}
+
+#author p{
+  width: 612px;
+}
+
+button{
+  background-color: #BC7058;
+  color: white;
+  float: right;
+}
+/* BC7058 */
