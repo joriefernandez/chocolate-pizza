@@ -113,6 +113,7 @@ h4{
 
 #author-container{
   display: inline-block;
+  margin-bottom: 30px;
 }
 
 #author{
@@ -139,7 +140,8 @@ button{
 }
 
 hr{
-  /* width: 455px;  */
+  z-index: -1;
+  margin-bottom: 30px;
 }
 
 footer p{
@@ -150,7 +152,8 @@ footer p{
 
 footer img{
   clear: left;
-  margin: 0px auto;
+  margin: -22px auto;
+  display: block;
 }
 
 footer{
