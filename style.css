@@ -90,8 +90,9 @@ h3{
   margin-bottom: 30px;
 }
 
-p{
+.direction{
   margin-bottom: 30px;
+  text-indent: 50px;
 }
 
 #ingredrients-container{
@@ -159,3 +160,4 @@ footer img{
 footer{
   margin-bottom: 30px;
 }
+
