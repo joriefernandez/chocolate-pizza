@@ -113,11 +113,12 @@ h4{
 
 #author-container{
   display: inline-block;
-  
 }
 
 #author{
   float: left;
+  width: 668px;
+  margin-right: 12px;
 }
 
 #author-container img{
@@ -125,12 +126,33 @@ h4{
 }
 
 #author p{
-  width: 612px;
+  width: 552px;
 }
 
 button{
   background-color: #BC7058;
   color: white;
   float: right;
+  font-size: 25px;
+  padding: 20px;
+  text-transform: uppercase;
 }
-/* BC7058 */
+
+hr{
+  /* width: 455px;  */
+}
+
+footer p{
+  text-align: center;
+  color: #777;
+  margin: 0px;
+}
+
+footer img{
+  clear: left;
+  margin: 0px auto;
+}
+
+footer{
+  margin-bottom: 30px;
+}
